@@ -1,4 +1,4 @@
-\# Network Engineering Labs
+# Network Engineering Labs
 
 
 
@@ -6,19 +6,19 @@ A collection of hands-on networking labs, notes, and practice projects as I buil
 
 
 
-\## Topics
+## Topics
 
 
 
-\- Networking fundamentals
+- Networking fundamentals
 
-\- Switching and routing
+- Switching and routing
 
-\- Network troubleshooting
+- Network troubleshooting
 
 
 
-\## Lab write-ups
+## Lab write-ups
 
 
 
