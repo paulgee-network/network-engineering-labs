@@ -1,26 +1,26 @@
-# \# Network Engineering Labs
+\# Network Engineering Labs
 
-# 
 
-# A collection of hands-on networking labs, notes, and practice projects as I build my skills in network engineering.
 
-# 
+A collection of hands-on networking labs, notes, and practice projects as I build my skills in network engineering.
 
-# \## Topics
 
-# 
 
-# \- Networking fundamentals
+\## Topics
 
-# \- Switching and routing
 
-# \- Network troubleshooting
 
-# 
+\- Networking fundamentals
 
-# \## Lab write-ups
+\- Switching and routing
 
-# 
+\- Network troubleshooting
 
-# Each write-up will include the goal, steps, results, and what I learned. Examples will use fictional network details.
+
+
+\## Lab write-ups
+
+
+
+Each write-up will include the goal, steps, results, and what I learned. Examples will use fictional network details.
 
